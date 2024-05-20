@@ -29,3 +29,10 @@ We are using middlewares like morgan to log the requests information.
 Also middlewares like express.json() to parse the body of the request and express.static() to serve static files, etc.
 
 Remember to repeat the previous steps to run the server.
+
+## Fourth example
+
+In the `04-routes` folder you'll find a new server that uses express and has the routes in separate files.
+
+
+## Fifth example
